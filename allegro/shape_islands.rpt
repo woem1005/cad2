@@ -1,0 +1,18 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Island Report                                              )
+(                                                                     )
+(    Drawing          : CAD2.brd                                      )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Wed Jul 31 12:13:33 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Total islands on design: 1
+
+
+  <<<  ETCH  >>>
+
+    Layer = BOTTOM
+	Point on shape: (67.999 31.656)  Net: GND

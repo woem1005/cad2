@@ -1,0 +1,1468 @@
+\t (00:00:01) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Wed Jul 31 11:31:42 2019
+\t (00:00:01)         Host=USER-PC User=user Pid=7480 CPUs=4
+\t (00:00:01) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe -mpssession user C:\USERS\USER\DESKTOP\VSCODE_ORCAD\WORKSPACE\CAD2\allegro\CAD2.brd
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\d (00:00:05) Design opened: C:/USERS/USER/DESKTOP/VSCODE_ORCAD/WORKSPACE/CAD2/allegro/CAD2.brd
+\i (00:00:06) trapsize 1327
+\i (00:00:06) trapsize 1387
+\i (00:00:06) trapsize 1387
+\i (00:00:06) trapsize 1327
+\i (00:00:07) generaledit 
+\i (00:00:08) pick grid 167.699 24.336
+\t (00:00:08) last pick:  168.000 24.000
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in 37.611 29.646
+\i (00:00:08) trapsize 664
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in 37.346 29.646
+\i (00:00:09) trapsize 332
+\i (00:00:10) roam start
+\i (00:00:10) roam x -112
+\i (00:00:10) roam x -96
+\i (00:00:11) roam x -32
+\i (00:00:11) roam x -32
+\i (00:00:11) roam x -48
+\i (00:00:11) roam x -48
+\i (00:00:11) roam end
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out 22.213 40.465
+\i (00:00:12) trapsize 664
+\i (00:00:14) pick grid 39.735 76.306
+\t (00:00:14) last pick:  39.600 76.800
+\i (00:00:20) pick grid 50.222 76.439
+\t (00:00:20) last pick:  50.400 76.800
+\i (00:00:20) zoom out 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom out 51.019 71.527
+\i (00:00:20) trapsize 1327
+\i (00:00:22) zoom in 1 
+\i (00:00:22) setwindow pcb
+\i (00:00:22) zoom in 121.504 85.929
+\i (00:00:22) trapsize 664
+\i (00:00:23) zoom out 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom out 115.132 94.292
+\i (00:00:23) trapsize 1327
+\i (00:00:29) artwork 
+\i (00:00:30) setwindow form.film_control
+\i (00:00:30) FORM film_control select_all  
+\i (00:00:30) FORM film_control create  
+\i (00:00:31) fillin yes 
+\t (00:00:31) Checking db records
+\t (00:00:31)     checking for orphans...
+\t (00:00:32)     Checked 100 percent
+\w (00:00:32) Run batch DRC to correctly regenerate DRC errs.
+
+\t (00:00:32) Done dbdoctor.
+\t (00:00:32) Starting Create artwork films...
+\w (00:00:33) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (00:00:34) Artwork generated with warnings.
+\i (00:00:35) setwindow text
+\i (00:00:35) close 
+\i (00:00:36) setwindow form.film_control
+\i (00:00:36) FORM film_control cancel  
+\i (00:00:36) setwindow pcb
+\i (00:00:36) generaledit 
+\i (00:00:36) pick grid 204.602 97.080
+\t (00:00:36) last pick:  205.200 97.200
+\i (00:00:37) zoom in 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom in 101.858 47.699
+\i (00:00:37) trapsize 664
+\i (00:00:38) roam start
+\i (00:00:38) roam x -48
+\i (00:00:38) roam x -112
+\i (00:00:38) roam y 64
+\i (00:00:38) roam x -64
+\i (00:00:38) roam y 32
+\i (00:00:38) roam x -80
+\i (00:00:38) roam y 64
+\i (00:00:38) roam x -64
+\i (00:00:38) roam y 80
+\i (00:00:38) roam x -32
+\i (00:00:38) roam y 32
+\i (00:00:38) roam end
+\i (00:00:38) zoom out 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom out 70.796 18.362
+\i (00:00:38) trapsize 1327
+\i (00:00:41) zoom in 1 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom in 121.239 59.115
+\i (00:00:41) trapsize 664
+\i (00:00:42) roam start
+\i (00:00:42) roam x -48
+\i (00:00:42) roam x -80
+\i (00:00:42) roam y 32
+\i (00:00:42) roam x -64
+\i (00:00:42) roam y 48
+\i (00:00:42) roam x -48
+\i (00:00:42) roam y 48
+\i (00:00:42) roam x -48
+\i (00:00:42) roam y 32
+\i (00:00:42) roam end
+\i (00:00:44) roam start
+\i (00:00:44) roam x -64
+\i (00:00:44) roam x -16
+\i (00:00:44) roam end
+\i (00:00:44) pick grid 107.168 42.655
+\t (00:00:44) last pick:  106.800 43.200
+\i (00:00:52) shape global param 
+\i (00:00:53) generaledit 
+\i (00:00:54) setwindow form.dyn_xshape
+\i (00:00:54) FORM dyn_xshape clearances  
+\i (00:01:35) FORM dyn_xshape cancel  
+\i (00:01:45) setwindow pcb
+\i (00:01:45) cmgr 
+\i (00:01:46) setwindow cmgr
+\i (00:01:46) cm newView ( kConsmgr worksheet 55:Physical "56:Physical Constraint Set" "57:All Layers" "323:All Layers" )
+\i (00:01:46) cm newView ( kConsmgr worksheet 55:Physical 61:Net "62:All Layers" "63:All Layers" )
+\i (00:01:46) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:01:46) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:01:46) setwindow pcb
+\i (00:01:46) generaledit 
+\i (00:01:51) setwindow cmgr
+\i (00:01:51) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:01:53) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:01:59) cm select ( frame ( kConsmgr workbook 78:Spacing 94:Net "95:All Layers" ) )
+\i (00:02:04) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:03:33) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:03:33) cm select ( frame ( kConsmgr workbook 78:Spacing 94:Net "95:All Layers" ) )
+\i (00:03:34) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:03:35) cm select ( frame ( kConsmgr workbook 78:Spacing 94:Net "95:All Layers" ) )
+\i (00:04:32) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:04:32) cm select ( frame ( kConsmgr workbook 78:Spacing 94:Net "95:All Layers" ) )
+\i (00:04:33) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:05:11) cm select ( frame ( kConsmgr workbook 78:Spacing 94:Net "95:All Layers" ) )
+\i (00:05:16) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" ) )
+\i (00:05:35) cm close ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:05:35) cm close ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:05:35) cm close ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:05:35) cm close ( frame ( kConsmgr workbook 78:Spacing 94:Net "95:All Layers" ) )
+\i (00:05:35) cm close ( frame ( kConsmgr workbook "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" ) )
+\i (00:05:35) cm exit
+\i (00:05:37) setwindow pcb
+\i (00:05:37) pick grid 57.920 77.965
+\t (00:05:37) last pick:  57.600 78.000
+\i (00:05:55) enved 
+\i (00:05:56) generaledit 
+\i (00:05:59) setwindow form.prfedit
+\i (00:05:59) FORM prfedit cancel  
+\i (00:06:05) setwindow pcb
+\i (00:06:05) cmgr 
+\i (00:06:06) setwindow cmgr
+\i (00:06:06) cm newView ( kConsmgr worksheet 55:Physical 61:Net "62:All Layers" "63:All Layers" )
+\i (00:06:06) cm newView ( kConsmgr worksheet 55:Physical "56:Physical Constraint Set" "57:All Layers" "323:All Layers" )
+\i (00:06:07) cm newView ( kConsmgr worksheet 78:Spacing "79:Spacing Constraint Set" "80:All Layers" "167:All Layers" )
+\i (00:06:07) cm newView ( kConsmgr worksheet 78:Spacing 94:Net "95:All Layers" "1:All Layers" )
+\i (00:06:07) cm newView ( kConsmgr worksheet "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" "174:All Layers" )
+\i (00:06:07) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:06:07) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:06:07) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:06:07) cm select ( frame ( kConsmgr workbook 78:Spacing 94:Net "95:All Layers" ) )
+\i (00:06:07) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" ) )
+\i (00:06:07) setwindow pcb
+\i (00:06:07) generaledit 
+\i (00:06:13) setwindow cmgr
+\i (00:06:13) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:06:25) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" ) )
+\i (00:06:32) cm scope Design "CAD2"
+\i (00:06:32) cm putValue ( "Same Net Spacing CSet" "DEFAULT" ) SN_THRUPIN_SPACING 0.254 7 ( "Same Net Spacing CSet" "DEFAULT" )
+\i (00:06:32) cm endUndoBlock
+\i (00:06:34) cm putValue ( "Same Net Spacing CSet" "DEFAULT" ) SN_LINE_SPACING 0.254 7 ( "Same Net Spacing CSet" "DEFAULT" )
+\i (00:06:34) cm endUndoBlock
+\i (00:06:37) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:06:38) cm putValue ( "Spacing CSet" "DEFAULT" ) THRUPIN_SPACING 0.254 7 ( "Spacing CSet" "DEFAULT" )
+\i (00:06:38) cm endUndoBlock
+\i (00:06:40) cm putValue ( "Spacing CSet" "DEFAULT" ) LINE_SPACING 0.254 7 ( "Spacing CSet" "DEFAULT" )
+\i (00:06:40) cm endUndoBlock
+\i (00:06:43) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" ) )
+\i (00:06:45) cm close ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:06:45) cm close ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:06:45) cm close ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:06:45) cm close ( frame ( kConsmgr workbook 78:Spacing 94:Net "95:All Layers" ) )
+\i (00:06:45) cm close ( frame ( kConsmgr workbook "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" ) )
+\i (00:06:45) cm exit
+\i (00:06:46) setwindow pcb
+\i (00:06:46) pick grid 145.664 35.487
+\t (00:06:46) last pick:  145.200 36.000
+\i (00:07:20) cmgr 
+\i (00:07:20) setwindow cmgr
+\i (00:07:20) cm newView ( kConsmgr worksheet 55:Physical 61:Net "62:All Layers" "63:All Layers" )
+\i (00:07:21) cm newView ( kConsmgr worksheet 55:Physical "56:Physical Constraint Set" "57:All Layers" "323:All Layers" )
+\i (00:07:21) cm newView ( kConsmgr worksheet 78:Spacing 94:Net "95:All Layers" "1:All Layers" )
+\i (00:07:21) cm newView ( kConsmgr worksheet 78:Spacing "79:Spacing Constraint Set" "80:All Layers" "167:All Layers" )
+\i (00:07:21) cm newView ( kConsmgr worksheet "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" "174:All Layers" )
+\i (00:07:21) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:07:21) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:07:21) cm select ( frame ( kConsmgr workbook 78:Spacing 94:Net "95:All Layers" ) )
+\i (00:07:21) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:07:21) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" ) )
+\i (00:07:21) setwindow pcb
+\i (00:07:21) generaledit 
+\i (00:07:23) setwindow cmgr
+\i (00:07:23) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:07:26) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:08:12) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:08:14) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:08:14) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:22:24) cm close ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:22:24) cm close ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:22:24) cm close ( frame ( kConsmgr workbook 78:Spacing 94:Net "95:All Layers" ) )
+\i (00:22:24) cm close ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:22:24) cm close ( frame ( kConsmgr workbook "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" ) )
+\i (00:22:25) cm exit
+\i (00:22:55) setwindow pcb
+\i (00:22:55) trapsize 1237
+\i (00:22:56) trapsize 1784
+\i (00:23:05) shape global param 
+\i (00:23:05) generaledit 
+\i (00:25:55) pick grid 140.947 60.784
+\t (00:25:55) last pick:  140.400 61.200
+\i (00:25:55) zoom in 1 
+\i (00:25:55) setwindow pcb
+\i (00:25:55) zoom in 90.625 21.883
+\i (00:25:55) trapsize 892
+\i (00:25:56) zoom in 1 
+\i (00:25:56) setwindow pcb
+\i (00:25:56) zoom in 94.016 24.916
+\i (00:25:56) trapsize 446
+\i (00:25:57) roam start
+\i (00:25:57) roam x -48
+\i (00:25:57) roam y -32
+\i (00:25:57) roam x -80
+\i (00:25:57) roam y -64
+\i (00:25:57) roam x -16
+\i (00:25:57) roam y -16
+\i (00:25:57) roam x -32
+\i (00:25:57) roam x -32
+\i (00:25:57) roam x -48
+\i (00:25:57) roam y -32
+\i (00:25:57) roam end
+\i (00:25:58) pick grid 80.174 66.702
+\t (00:25:58) last pick:  80.400 67.200
+\i (00:26:21) cmgr 
+\i (00:26:22) setwindow cmgr
+\i (00:26:22) cm newView ( kConsmgr worksheet 55:Physical 61:Net "62:All Layers" "63:All Layers" )
+\i (00:26:22) cm newView ( kConsmgr worksheet 78:Spacing 94:Net "95:All Layers" "1:All Layers" )
+\i (00:26:22) cm newView ( kConsmgr worksheet "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" "174:All Layers" )
+\i (00:26:22) cm newView ( kConsmgr worksheet 55:Physical "56:Physical Constraint Set" "57:All Layers" "323:All Layers" )
+\i (00:26:22) cm newView ( kConsmgr worksheet 78:Spacing "79:Spacing Constraint Set" "80:All Layers" "167:All Layers" )
+\i (00:26:23) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:26:23) cm select ( frame ( kConsmgr workbook 78:Spacing 94:Net "95:All Layers" ) )
+\i (00:26:23) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" ) )
+\i (00:26:23) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:26:23) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:26:23) setwindow pcb
+\i (00:26:23) generaledit 
+\i (00:26:25) setwindow cmgr
+\i (00:26:25) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:26:33) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:26:40) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:26:47) cm close ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:26:47) cm close ( frame ( kConsmgr workbook 78:Spacing 94:Net "95:All Layers" ) )
+\i (00:26:47) cm close ( frame ( kConsmgr workbook "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" ) )
+\i (00:26:47) cm close ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:26:47) cm close ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:26:47) cm exit
+\i (00:30:09) setwindow form.dyn_xshape
+\i (00:30:09) FORM dyn_xshape thermal_relief_connects  
+\i (00:31:28) FORM dyn_xshape clearances  
+\i (00:31:41) FORM dyn_xshape thermal_relief_connects  
+\i (00:31:51) FORM dyn_xshape cancel  
+\i (00:32:26) setwindow pcb
+\i (00:32:26) shape global param 
+\i (00:32:26) generaledit 
+\i (00:32:27) setwindow form.dyn_xshape
+\i (00:32:27) FORM dyn_xshape clearances  
+\i (00:32:57) FORM dyn_xshape thermal_relief_connects  
+\i (00:33:23) FORM dyn_xshape cancel  
+\i (00:33:27) setwindow pcb
+\i (00:33:27) enved 
+\i (00:33:28) generaledit 
+\i (00:35:33) setwindow form.prfedit
+\i (00:35:33) FORM prfedit cancel  
+\i (00:35:35) setwindow pcb
+\i (00:35:35) trapsize 166
+\i (00:35:35) zoom out 1 
+\i (00:35:35) setwindow pcb
+\i (00:35:35) zoom out 77.088 20.917
+\i (00:35:35) trapsize 332
+\i (00:35:35) zoom out 1 
+\i (00:35:35) setwindow pcb
+\i (00:35:35) zoom out 77.088 20.918
+\i (00:35:35) trapsize 664
+\i (00:35:35) zoom out 1 
+\i (00:35:35) setwindow pcb
+\i (00:35:35) zoom out 84.337 27.390
+\i (00:35:35) trapsize 1327
+\i (00:35:38) status 
+\i (00:35:39) generaledit 
+\i (00:35:40) setwindow form.status
+\i (00:35:40) FORM status fill_update  
+\t (00:35:40) Updating dynamic shape (1 of 1) Gnd, Boundary/Bottom @ (5.000 5.000) ...
+\i (00:35:42) FORM status drc_update  
+\t (00:35:42) Running DRC, wait...
+\t (00:35:42) Performing DRC...
+\t (00:35:42) Multithreaded DRC update (4 threads).
+\t (00:35:42) DRC done; 2 errors detected.
+\t (00:35:42) DRC done.
+\i (00:35:46) FORM status drc_update  
+\t (00:35:46) Running DRC, wait...
+\t (00:35:46) Performing DRC...
+\t (00:35:46) Multithreaded DRC update (4 threads).
+\t (00:35:46) DRC done; 2 errors detected.
+\t (00:35:46) DRC done.
+\i (00:35:46) FORM status drc_update  
+\t (00:35:46) Running DRC, wait...
+\t (00:35:46) Performing DRC...
+\t (00:35:46) Multithreaded DRC update (4 threads).
+\t (00:35:46) DRC done; 2 errors detected.
+\t (00:35:46) DRC done.
+\i (00:35:47) FORM status drc_update  
+\t (00:35:47) Running DRC, wait...
+\t (00:35:47) Performing DRC...
+\t (00:35:47) Multithreaded DRC update (4 threads).
+\t (00:35:47) DRC done; 2 errors detected.
+\t (00:35:47) DRC done.
+\i (00:35:47) FORM status drc_update  
+\t (00:35:47) Running DRC, wait...
+\t (00:35:47) Performing DRC...
+\t (00:35:47) Multithreaded DRC update (4 threads).
+\t (00:35:47) DRC done; 2 errors detected.
+\t (00:35:47) DRC done.
+\i (00:35:48) FORM status drc_update  
+\t (00:35:48) Running DRC, wait...
+\t (00:35:48) Performing DRC...
+\t (00:35:48) Multithreaded DRC update (4 threads).
+\t (00:35:48) DRC done; 2 errors detected.
+\t (00:35:48) DRC done.
+\i (00:35:48) FORM status drc_update  
+\t (00:35:48) Running DRC, wait...
+\t (00:35:48) Performing DRC...
+\t (00:35:48) Multithreaded DRC update (4 threads).
+\t (00:35:48) DRC done; 2 errors detected.
+\t (00:35:48) DRC done.
+\i (00:35:49) FORM status drc_update  
+\t (00:35:49) Running DRC, wait...
+\t (00:35:49) Performing DRC...
+\t (00:35:49) Multithreaded DRC update (4 threads).
+\t (00:35:49) DRC done; 2 errors detected.
+\t (00:35:49) DRC done.
+\i (00:35:49) setwindow pcb
+\i (00:35:49) pick grid 26.991 94.159
+\t (00:35:49) last pick:  26.400 93.600
+\i (00:35:50) zoom in 1 
+\i (00:35:50) setwindow pcb
+\i (00:35:50) zoom in 38.938 73.186
+\i (00:35:50) trapsize 664
+\i (00:35:51) roam start
+\i (00:35:51) roam y 80
+\i (00:35:51) roam x 16
+\i (00:35:51) roam y 64
+\i (00:35:51) roam x 16
+\i (00:35:51) roam y 32
+\i (00:35:51) roam end
+\i (00:35:54) pick grid 43.982 81.947
+\t (00:35:54) last pick:  44.400 81.600
+\i (00:35:54) zoom in 1 
+\i (00:35:54) setwindow pcb
+\i (00:35:54) zoom in 28.319 62.301
+\i (00:35:54) trapsize 332
+\i (00:35:55) roam start
+\i (00:35:55) roam x -48
+\i (00:35:55) roam y 64
+\i (00:35:55) roam x -128
+\i (00:35:55) roam y 112
+\i (00:35:55) roam x -64
+\i (00:35:55) roam y 64
+\i (00:35:55) roam x -80
+\i (00:35:55) roam y 64
+\i (00:35:55) roam x -32
+\i (00:35:55) roam y 48
+\i (00:35:55) roam x -32
+\i (00:35:55) roam y 32
+\i (00:35:55) roam end
+\i (00:35:56) pick grid 11.659 40.000
+\t (00:35:56) last pick:  12.000 39.600
+\i (00:35:58) pick grid 12.058 40.200
+\t (00:35:58) last pick:  12.000 40.800
+\i (00:35:59) setwindow form.status
+\i (00:35:59) FORM status done  
+\i (00:36:00) setwindow pcb
+\i (00:36:00) pick grid -6.726 33.430
+\t (00:36:00) last pick:  -7.200 33.600
+\e (00:36:01) Command not found: 3F3
+\i (00:36:02) add connect 
+\t (00:36:02) Pick first element.
+\i (00:36:02) pick grid 5.354 32.235
+\t (00:36:02) last pick:  5.080 32.385
+\t (00:36:02) last pick:  5.000 32.460
+\t (00:36:02) Target Horizontal Line Segment is defined on BOTTOM.
+\t (00:36:02) last pick:  5.000 32.460
+\i (00:36:03) mouse_pos 8.009 32.633
+\i (00:36:03) mouse_pos 12.456 39.138
+\i (00:36:03) mouse_pos 12.323 39.270
+\i (00:36:03) mouse_pos 11.925 39.735
+\i (00:36:04) mouse_pos 12.124 39.005
+\i (00:36:04) mouse_pos 12.323 38.341
+\i (00:36:05) pick grid 11.726 33.562
+\t (00:36:05) last pick:  11.430 33.655
+\t (00:36:05) No DRC errors detected.
+\t (00:36:05) Pick first element.
+\i (00:36:06) add connect 
+\t (00:36:06) Pick first element.
+\i (00:36:06) pick grid 11.991 39.868
+\t (00:36:06) last pick:  12.065 40.005
+\t (00:36:06) last pick:  12.000 40.160
+\t (00:36:06) last pick:  12.000 40.160
+\i (00:36:06) mouse_pos 11.991 35.421
+\i (00:36:06) mouse_pos 11.593 33.961
+\i (00:36:07) pick grid 11.792 33.629
+\t (00:36:07) last pick:  12.065 33.655
+\t (00:36:07) No DRC errors detected.
+\t (00:36:07) Pick first element.
+\i (00:36:08) done 
+\i (00:36:08) generaledit 
+\i (00:36:08) zoom out 1 
+\i (00:36:08) setwindow pcb
+\i (00:36:08) zoom out -0.088 40.200
+\i (00:36:08) trapsize 664
+\i (00:36:09) zoom out 1 
+\i (00:36:09) setwindow pcb
+\i (00:36:09) zoom out -4.602 46.969
+\i (00:36:09) trapsize 1327
+\i (00:36:09) roam start
+\i (00:36:09) roam end
+\i (00:36:10) prepopup 50.619 138.761
+\i (00:36:11) pick grid 4.425 139.292
+\t (00:36:11) last pick:  4.445 139.065
+\i (00:36:11) save 
+\i (00:36:13) fillin yes 
+   (00:36:13) Loading signal.cxt 
+   (00:36:13) Loading consmgr.cxt 
+   (00:36:13) Loading acns_formula.cxt 
+\i (00:36:13) generaledit 
+\i (00:36:16) island_delete 
+\t (00:36:16) To delete, pick highlighted islands(s) or navigate using Options panel.
+\i (00:36:17) setwindow form.mini
+\i (00:36:17) FORM mini delete_all  
+\i (00:36:21) setwindow pcb
+\i (00:36:21) status 
+\i (00:36:23) setwindow form.status
+\i (00:36:23) FORM status drc_update  
+\w (00:36:23) DRC Update can not be run while command active.
+\i (00:36:23) FORM status fill_update  
+\w (00:36:23) Shape Update can not be run while command active.
+\i (00:36:24) FORM status drc_update  
+\w (00:36:24) DRC Update can not be run while command active.
+\i (00:36:24) FORM status drc_update  
+\w (00:36:24) DRC Update can not be run while command active.
+\i (00:36:24) FORM status drc_update  
+\w (00:36:24) DRC Update can not be run while command active.
+\i (00:36:25) FORM status drc_update  
+\w (00:36:25) DRC Update can not be run while command active.
+\i (00:36:25) FORM status fill_update  
+\w (00:36:25) Shape Update can not be run while command active.
+\i (00:36:25) FORM status fill_update  
+\w (00:36:25) Shape Update can not be run while command active.
+\i (00:36:25) FORM status fill_update  
+\w (00:36:25) Shape Update can not be run while command active.
+\i (00:36:26) FORM status fill_update  
+\w (00:36:26) Shape Update can not be run while command active.
+\i (00:36:27) FORM status done  
+\i (00:36:28) setwindow form.mini
+\i (00:36:28) FORM mini delete_all  
+\w (00:36:28) No islands left to delete on this layer.
+\i (00:36:29) setwindow pcb
+\i (00:36:29) zoom in 1 
+\i (00:36:29) setwindow pcb
+\i (00:36:29) zoom in 65.221 64.690
+\i (00:36:29) trapsize 664
+\i (00:36:29) roam start
+\i (00:36:29) roam x -96
+\i (00:36:29) roam y 32
+\i (00:36:30) roam x -112
+\i (00:36:30) roam y 64
+\i (00:36:30) roam x -32
+\i (00:36:30) roam y 32
+\i (00:36:30) roam x -48
+\i (00:36:30) roam y 48
+\i (00:36:30) roam end
+\i (00:36:33) island_delete 
+\i (00:36:35) fillin yes 
+\t (00:36:35) Updating dynamic shape (1 of 1) Gnd, Boundary/Bottom @ (5.000 5.000) ...
+\t (00:36:35) No shape islands present on design!
+\i (00:36:35) generaledit 
+\i (00:36:37) status 
+\i (00:36:38) generaledit 
+\i (00:36:39) setwindow form.status
+\i (00:36:39) FORM status drc_update  
+\t (00:36:39) Running DRC, wait...
+\t (00:36:39) Performing DRC...
+\t (00:36:39) Multithreaded DRC update (4 threads).
+\t (00:36:39) DRC done; 2 errors detected.
+\t (00:36:39) DRC done.
+\i (00:36:39) FORM status drc_update  
+\t (00:36:39) Running DRC, wait...
+\t (00:36:39) Performing DRC...
+\t (00:36:39) Multithreaded DRC update (4 threads).
+\t (00:36:39) DRC done; 2 errors detected.
+\t (00:36:39) DRC done.
+\i (00:36:39) FORM status drc_update  
+\t (00:36:39) Running DRC, wait...
+\t (00:36:39) Performing DRC...
+\t (00:36:39) Multithreaded DRC update (4 threads).
+\t (00:36:39) DRC done; 2 errors detected.
+\t (00:36:39) DRC done.
+\i (00:36:40) FORM status drc_update  
+\t (00:36:40) Running DRC, wait...
+\t (00:36:40) Performing DRC...
+\t (00:36:40) Multithreaded DRC update (4 threads).
+\t (00:36:40) DRC done; 2 errors detected.
+\t (00:36:40) DRC done.
+\i (00:36:40) FORM status drc_update  
+\t (00:36:40) Running DRC, wait...
+\t (00:36:40) Performing DRC...
+\t (00:36:40) Multithreaded DRC update (4 threads).
+\t (00:36:41) DRC done; 2 errors detected.
+\t (00:36:41) DRC done.
+\i (00:36:41) FORM status drc_update  
+\t (00:36:41) Running DRC, wait...
+\t (00:36:41) Performing DRC...
+\t (00:36:41) Multithreaded DRC update (4 threads).
+\t (00:36:41) DRC done; 2 errors detected.
+\t (00:36:41) DRC done.
+\i (00:36:44) FORM status drc_update  
+\t (00:36:44) Running DRC, wait...
+\t (00:36:44) Performing DRC...
+\t (00:36:44) Multithreaded DRC update (4 threads).
+\t (00:36:44) DRC done; 2 errors detected.
+\t (00:36:44) DRC done.
+\i (00:36:45) FORM status drc_update  
+\t (00:36:45) Running DRC, wait...
+\t (00:36:45) Performing DRC...
+\t (00:36:45) Multithreaded DRC update (4 threads).
+\t (00:36:45) DRC done; 2 errors detected.
+\t (00:36:45) DRC done.
+\i (00:36:45) FORM status drc_update  
+\t (00:36:45) Running DRC, wait...
+\t (00:36:45) Performing DRC...
+\t (00:36:45) Multithreaded DRC update (4 threads).
+\t (00:36:45) DRC done; 2 errors detected.
+\t (00:36:45) DRC done.
+\i (00:36:45) FORM status drc_update  
+\t (00:36:45) Running DRC, wait...
+\t (00:36:45) Performing DRC...
+\t (00:36:45) Multithreaded DRC update (4 threads).
+\t (00:36:45) DRC done; 2 errors detected.
+\t (00:36:45) DRC done.
+\i (00:36:46) FORM status drc_update  
+\t (00:36:46) Running DRC, wait...
+\t (00:36:46) Performing DRC...
+\t (00:36:46) Multithreaded DRC update (4 threads).
+\t (00:36:46) DRC done; 2 errors detected.
+\t (00:36:46) DRC done.
+\i (00:36:46) FORM status drc_update  
+\t (00:36:46) Running DRC, wait...
+\t (00:36:46) Performing DRC...
+\t (00:36:46) Multithreaded DRC update (4 threads).
+\t (00:36:46) DRC done; 2 errors detected.
+\t (00:36:46) DRC done.
+\i (00:36:48) FORM status done  
+\i (00:36:49) setwindow pcb
+\i (00:36:49) zoom in 1 
+\i (00:36:49) setwindow pcb
+\i (00:36:49) zoom in 103.717 42.655
+\i (00:36:49) trapsize 332
+\i (00:36:50) roam start
+\i (00:36:50) roam x -48
+\i (00:36:50) roam y 16
+\i (00:36:50) roam x -32
+\i (00:36:50) roam y 16
+\i (00:36:50) roam x -32
+\i (00:36:50) roam x -32
+\i (00:36:50) roam y 16
+\i (00:36:50) roam x -48
+\i (00:36:50) roam y 32
+\i (00:36:51) roam x -16
+\i (00:36:51) roam y 16
+\i (00:36:51) roam x -16
+\i (00:36:51) roam x -48
+\i (00:36:51) roam x -32
+\i (00:36:51) roam x -32
+\i (00:36:51) roam y 16
+\i (00:36:52) roam x -16
+\i (00:36:52) roam x -48
+\i (00:36:52) roam y 16
+\i (00:36:52) roam x -48
+\i (00:36:52) roam x -16
+\i (00:36:52) roam y 16
+\i (00:36:52) roam x -16
+\i (00:36:52) roam y 16
+\i (00:36:52) roam x -16
+\i (00:36:53) roam x -16
+\i (00:36:53) roam x -16
+\i (00:36:53) roam x -16
+\i (00:36:53) roam x -16
+\i (00:36:53) roam x -16
+\i (00:36:53) roam x -16
+\i (00:36:55) roam y -16
+\i (00:36:55) roam x -48
+\i (00:36:55) roam y -80
+\i (00:36:55) roam y -32
+\i (00:36:55) roam x -16
+\i (00:36:55) roam y -16
+\i (00:36:55) roam y -32
+\i (00:36:56) roam end
+\i (00:36:57) zoom out 1 
+\i (00:36:57) setwindow pcb
+\i (00:36:57) zoom out 44.514 40.531
+\i (00:36:57) trapsize 664
+\i (00:37:03) island_delete 
+\t (00:37:04) No shape islands present on design!
+\i (00:37:04) generaledit 
+\i (00:37:10) drc update 
+\t (00:37:10) Performing DRC...
+\t (00:37:10) Multithreaded DRC update (4 threads).
+\t (00:37:10) DRC done; 2 errors detected.
+\i (00:37:10) generaledit 
+\i (00:37:13) status 
+\i (00:37:13) generaledit 
+\i (00:37:15) setwindow form.status
+\i (00:37:15) FORM status drc_update  
+\t (00:37:15) Running DRC, wait...
+\t (00:37:15) Performing DRC...
+\t (00:37:15) Multithreaded DRC update (4 threads).
+\t (00:37:15) DRC done; 2 errors detected.
+\t (00:37:15) DRC done.
+\i (00:37:15) FORM status drc_update  
+\t (00:37:15) Running DRC, wait...
+\t (00:37:15) Performing DRC...
+\t (00:37:15) Multithreaded DRC update (4 threads).
+\t (00:37:15) DRC done; 2 errors detected.
+\t (00:37:15) DRC done.
+\i (00:37:15) FORM status drc_update  
+\t (00:37:15) Running DRC, wait...
+\t (00:37:15) Performing DRC...
+\t (00:37:15) Multithreaded DRC update (4 threads).
+\t (00:37:15) DRC done; 2 errors detected.
+\t (00:37:15) DRC done.
+\i (00:37:20) FORM status drc_update  
+\t (00:37:20) Running DRC, wait...
+\t (00:37:20) Performing DRC...
+\t (00:37:20) Multithreaded DRC update (4 threads).
+\t (00:37:20) DRC done; 2 errors detected.
+\t (00:37:20) DRC done.
+\i (00:37:20) FORM status drc_update  
+\t (00:37:20) Running DRC, wait...
+\t (00:37:20) Performing DRC...
+\t (00:37:20) Multithreaded DRC update (4 threads).
+\t (00:37:20) DRC done; 2 errors detected.
+\t (00:37:20) DRC done.
+\i (00:37:21) FORM status drc_update  
+\t (00:37:21) Running DRC, wait...
+\t (00:37:21) Performing DRC...
+\t (00:37:21) Multithreaded DRC update (4 threads).
+\t (00:37:21) DRC done; 2 errors detected.
+\t (00:37:21) DRC done.
+\i (00:37:21) FORM status drc_update  
+\t (00:37:21) Running DRC, wait...
+\t (00:37:21) Performing DRC...
+\t (00:37:21) Multithreaded DRC update (4 threads).
+\t (00:37:21) DRC done; 2 errors detected.
+\t (00:37:21) DRC done.
+\i (00:37:22) FORM status drc_update  
+\t (00:37:22) Running DRC, wait...
+\t (00:37:22) Performing DRC...
+\t (00:37:22) Multithreaded DRC update (4 threads).
+\t (00:37:22) DRC done; 2 errors detected.
+\t (00:37:22) DRC done.
+\i (00:37:22) FORM status drc_update  
+\t (00:37:22) Running DRC, wait...
+\t (00:37:22) Performing DRC...
+\t (00:37:22) Multithreaded DRC update (4 threads).
+\t (00:37:22) DRC done; 2 errors detected.
+\t (00:37:22) DRC done.
+\i (00:37:23) FORM status drc_update  
+\t (00:37:23) Running DRC, wait...
+\t (00:37:23) Performing DRC...
+\t (00:37:23) Multithreaded DRC update (4 threads).
+\t (00:37:23) DRC done; 2 errors detected.
+\t (00:37:23) DRC done.
+\i (00:37:23) FORM status drc_update  
+\t (00:37:23) Running DRC, wait...
+\t (00:37:23) Performing DRC...
+\t (00:37:23) Multithreaded DRC update (4 threads).
+\t (00:37:23) DRC done; 2 errors detected.
+\t (00:37:23) DRC done.
+\i (00:37:23) FORM status drc_update  
+\t (00:37:23) Running DRC, wait...
+\t (00:37:24) Performing DRC...
+\t (00:37:24) Multithreaded DRC update (4 threads).
+\t (00:37:24) DRC done; 2 errors detected.
+\t (00:37:24) DRC done.
+\i (00:37:24) FORM status drc_update  
+\t (00:37:24) Running DRC, wait...
+\t (00:37:24) Performing DRC...
+\t (00:37:24) Multithreaded DRC update (4 threads).
+\t (00:37:24) DRC done; 2 errors detected.
+\t (00:37:24) DRC done.
+\i (00:37:26) FORM status done  
+\i (00:37:29) setwindow pcb
+\i (00:37:29) nctape_full 
+\i (00:37:30) setwindow form.nc_drill
+\i (00:37:30) FORM nc_drill execute  
+\t (00:37:31) Starting Generating NC Drill...
+\i (00:37:35) FORM nc_drill cancel  
+\i (00:37:35) setwindow pcb
+\i (00:37:35) generaledit 
+\i (00:37:40) status 
+\i (00:37:40) generaledit 
+\i (00:37:41) setwindow form.status
+\i (00:37:41) FORM status drc_update  
+\t (00:37:41) Running DRC, wait...
+\t (00:37:41) Performing DRC...
+\t (00:37:41) Multithreaded DRC update (4 threads).
+\t (00:37:41) DRC done; 2 errors detected.
+\t (00:37:41) DRC done.
+\i (00:37:43) FORM status done  
+\i (00:37:44) setwindow pcb
+\i (00:37:44) zoom in 1 
+\i (00:37:44) setwindow pcb
+\i (00:37:44) zoom in 73.186 65.885
+\i (00:37:44) trapsize 332
+\i (00:37:45) zoom out 1 
+\i (00:37:45) setwindow pcb
+\i (00:37:45) zoom out 73.651 65.619
+\i (00:37:45) trapsize 664
+\i (00:37:47) roam start
+\i (00:37:47) roam y 48
+\i (00:37:47) roam y 48
+\i (00:37:47) roam end
+\i (00:37:54) status 
+\i (00:37:54) generaledit 
+\i (00:37:57) setwindow form.status
+\i (00:37:57) FORM status drc_update  
+\t (00:37:57) Running DRC, wait...
+\t (00:37:57) Performing DRC...
+\t (00:37:57) Multithreaded DRC update (4 threads).
+\t (00:37:57) DRC done; 2 errors detected.
+\t (00:37:57) DRC done.
+\i (00:38:15) FORM status drc_update  
+\t (00:38:15) Running DRC, wait...
+\t (00:38:16) Performing DRC...
+\t (00:38:16) Multithreaded DRC update (4 threads).
+\t (00:38:16) DRC done; 2 errors detected.
+\t (00:38:16) DRC done.
+\i (00:38:16) FORM status drc_update  
+\t (00:38:16) Running DRC, wait...
+\t (00:38:16) Performing DRC...
+\t (00:38:16) Multithreaded DRC update (4 threads).
+\t (00:38:16) DRC done; 2 errors detected.
+\t (00:38:16) DRC done.
+\i (00:38:16) FORM status drc_update  
+\t (00:38:16) Running DRC, wait...
+\t (00:38:16) Performing DRC...
+\t (00:38:16) Multithreaded DRC update (4 threads).
+\t (00:38:16) DRC done; 2 errors detected.
+\t (00:38:16) DRC done.
+\i (00:38:16) FORM status drc_update  
+\t (00:38:16) Running DRC, wait...
+\t (00:38:16) Performing DRC...
+\t (00:38:16) Multithreaded DRC update (4 threads).
+\t (00:38:16) DRC done; 2 errors detected.
+\t (00:38:16) DRC done.
+\i (00:38:17) FORM status drc_update  
+\t (00:38:17) Running DRC, wait...
+\t (00:38:17) Performing DRC...
+\t (00:38:17) Multithreaded DRC update (4 threads).
+\t (00:38:17) DRC done; 2 errors detected.
+\t (00:38:17) DRC done.
+\i (00:38:17) FORM status drc_update  
+\t (00:38:17) Running DRC, wait...
+\t (00:38:17) Performing DRC...
+\t (00:38:17) Multithreaded DRC update (4 threads).
+\t (00:38:17) DRC done; 2 errors detected.
+\t (00:38:17) DRC done.
+\i (00:38:17) FORM status drc_update  
+\t (00:38:17) Running DRC, wait...
+\t (00:38:17) Performing DRC...
+\t (00:38:17) Multithreaded DRC update (4 threads).
+\t (00:38:17) DRC done; 2 errors detected.
+\t (00:38:17) DRC done.
+\i (00:38:17) FORM status drc_update  
+\t (00:38:17) Running DRC, wait...
+\t (00:38:17) Performing DRC...
+\t (00:38:17) Multithreaded DRC update (4 threads).
+\t (00:38:17) DRC done; 2 errors detected.
+\t (00:38:17) DRC done.
+\i (00:38:17) FORM status drc_update  
+\t (00:38:17) Running DRC, wait...
+\t (00:38:18) Performing DRC...
+\t (00:38:18) Multithreaded DRC update (4 threads).
+\t (00:38:18) DRC done; 2 errors detected.
+\t (00:38:18) DRC done.
+\i (00:38:19) FORM status drc_update  
+\t (00:38:19) Running DRC, wait...
+\t (00:38:19) Performing DRC...
+\t (00:38:19) Multithreaded DRC update (4 threads).
+\t (00:38:20) DRC done; 2 errors detected.
+\t (00:38:20) DRC done.
+\i (00:38:20) FORM status drc_update  
+\t (00:38:20) Running DRC, wait...
+\t (00:38:20) Performing DRC...
+\t (00:38:20) Multithreaded DRC update (4 threads).
+\t (00:38:20) DRC done; 2 errors detected.
+\t (00:38:20) DRC done.
+\i (00:38:20) FORM status drc_update  
+\t (00:38:20) Running DRC, wait...
+\t (00:38:20) Performing DRC...
+\t (00:38:20) Multithreaded DRC update (4 threads).
+\t (00:38:20) DRC done; 2 errors detected.
+\t (00:38:20) DRC done.
+\i (00:38:21) FORM status drc_update  
+\t (00:38:21) Running DRC, wait...
+\t (00:38:21) Performing DRC...
+\t (00:38:21) Multithreaded DRC update (4 threads).
+\t (00:38:21) DRC done; 2 errors detected.
+\t (00:38:21) DRC done.
+\i (00:38:21) FORM status drc_update  
+\t (00:38:21) Running DRC, wait...
+\t (00:38:21) Performing DRC...
+\t (00:38:21) Multithreaded DRC update (4 threads).
+\t (00:38:21) DRC done; 2 errors detected.
+\t (00:38:21) DRC done.
+\i (00:38:21) FORM status drc_update  
+\t (00:38:21) Running DRC, wait...
+\t (00:38:21) Performing DRC...
+\t (00:38:21) Multithreaded DRC update (4 threads).
+\t (00:38:22) DRC done; 2 errors detected.
+\t (00:38:22) DRC done.
+\i (00:38:22) FORM status drc_update  
+\t (00:38:22) Running DRC, wait...
+\t (00:38:22) Performing DRC...
+\t (00:38:22) Multithreaded DRC update (4 threads).
+\t (00:38:22) DRC done; 2 errors detected.
+\t (00:38:22) DRC done.
+\i (00:38:22) FORM status drc_update  
+\t (00:38:22) Running DRC, wait...
+\t (00:38:22) Performing DRC...
+\t (00:38:22) Multithreaded DRC update (4 threads).
+\t (00:38:22) DRC done; 2 errors detected.
+\t (00:38:22) DRC done.
+\i (00:38:22) FORM status drc_update  
+\t (00:38:22) Running DRC, wait...
+\t (00:38:22) Performing DRC...
+\t (00:38:22) Multithreaded DRC update (4 threads).
+\t (00:38:22) DRC done; 2 errors detected.
+\t (00:38:22) DRC done.
+\i (00:38:22) FORM status drc_update  
+\t (00:38:22) Running DRC, wait...
+\t (00:38:22) Performing DRC...
+\t (00:38:22) Multithreaded DRC update (4 threads).
+\t (00:38:22) DRC done; 2 errors detected.
+\t (00:38:22) DRC done.
+\i (00:38:23) FORM status drc_update  
+\t (00:38:23) Running DRC, wait...
+\t (00:38:23) Performing DRC...
+\t (00:38:23) Multithreaded DRC update (4 threads).
+\t (00:38:23) DRC done; 2 errors detected.
+\t (00:38:23) DRC done.
+\i (00:38:23) FORM status drc_update  
+\t (00:38:23) Running DRC, wait...
+\t (00:38:23) Performing DRC...
+\t (00:38:23) Multithreaded DRC update (4 threads).
+\t (00:38:23) DRC done; 2 errors detected.
+\t (00:38:23) DRC done.
+\i (00:38:23) FORM status drc_update  
+\t (00:38:23) Running DRC, wait...
+\t (00:38:23) Performing DRC...
+\t (00:38:23) Multithreaded DRC update (4 threads).
+\t (00:38:24) DRC done; 2 errors detected.
+\t (00:38:24) DRC done.
+\i (00:38:24) FORM status drc_update  
+\t (00:38:24) Running DRC, wait...
+\t (00:38:24) Performing DRC...
+\t (00:38:24) Multithreaded DRC update (4 threads).
+\t (00:38:24) DRC done; 2 errors detected.
+\t (00:38:24) DRC done.
+\i (00:38:24) FORM status drc_update  
+\t (00:38:24) Running DRC, wait...
+\t (00:38:24) Performing DRC...
+\t (00:38:24) Multithreaded DRC update (4 threads).
+\t (00:38:24) DRC done; 2 errors detected.
+\t (00:38:24) DRC done.
+\i (00:38:25) FORM status drc_update  
+\t (00:38:25) Running DRC, wait...
+\t (00:38:25) Performing DRC...
+\t (00:38:25) Multithreaded DRC update (4 threads).
+\t (00:38:25) DRC done; 2 errors detected.
+\t (00:38:25) DRC done.
+\i (00:38:25) FORM status drc_update  
+\t (00:38:25) Running DRC, wait...
+\t (00:38:25) Performing DRC...
+\t (00:38:25) Multithreaded DRC update (4 threads).
+\t (00:38:25) DRC done; 2 errors detected.
+\t (00:38:25) DRC done.
+\i (00:38:25) FORM status drc_update  
+\t (00:38:25) Running DRC, wait...
+\t (00:38:25) Performing DRC...
+\t (00:38:25) Multithreaded DRC update (4 threads).
+\t (00:38:25) DRC done; 2 errors detected.
+\t (00:38:25) DRC done.
+\i (00:38:26) FORM status drc_update  
+\t (00:38:26) Running DRC, wait...
+\t (00:38:26) Performing DRC...
+\t (00:38:26) Multithreaded DRC update (4 threads).
+\t (00:38:26) DRC done; 2 errors detected.
+\t (00:38:26) DRC done.
+\i (00:38:54) FORM status drc_update  
+\t (00:38:54) Running DRC, wait...
+\t (00:38:54) Performing DRC...
+\t (00:38:54) Multithreaded DRC update (4 threads).
+\t (00:38:54) DRC done; 2 errors detected.
+\t (00:38:54) DRC done.
+\i (00:39:27) FORM status drc_update  
+\t (00:39:27) Running DRC, wait...
+\t (00:39:27) Performing DRC...
+\t (00:39:27) Multithreaded DRC update (4 threads).
+\t (00:39:27) DRC done; 2 errors detected.
+\t (00:39:27) DRC done.
+\i (00:39:27) FORM status drc_update  
+\t (00:39:27) Running DRC, wait...
+\t (00:39:27) Performing DRC...
+\t (00:39:27) Multithreaded DRC update (4 threads).
+\t (00:39:27) DRC done; 2 errors detected.
+\t (00:39:27) DRC done.
+\i (00:39:27) FORM status drc_update  
+\t (00:39:27) Running DRC, wait...
+\t (00:39:27) Performing DRC...
+\t (00:39:27) Multithreaded DRC update (4 threads).
+\t (00:39:27) DRC done; 2 errors detected.
+\t (00:39:27) DRC done.
+\i (00:39:27) FORM status drc_update  
+\t (00:39:27) Running DRC, wait...
+\t (00:39:27) Performing DRC...
+\t (00:39:27) Multithreaded DRC update (4 threads).
+\t (00:39:28) DRC done; 2 errors detected.
+\t (00:39:28) DRC done.
+\i (00:39:28) FORM status drc_update  
+\t (00:39:28) Running DRC, wait...
+\t (00:39:28) Performing DRC...
+\t (00:39:28) Multithreaded DRC update (4 threads).
+\t (00:39:28) DRC done; 2 errors detected.
+\t (00:39:28) DRC done.
+\i (00:39:30) FORM status done  
+\i (00:39:37) setwindow pcb
+\i (00:39:37) pick grid -46.549 44.381
+\t (00:39:37) last pick:  -46.355 44.450
+\i (00:39:44) enved 
+\i (00:39:45) generaledit 
+\i (00:39:47) setwindow form.prfedit
+\i (00:39:47) FORM prfedit no_shape_fill YES 
+\i (00:39:48) FORM prfedit no_etch_shape_display YES 
+\i (00:39:49) FORM prfedit apply  
+\i (00:39:49) FORM prfedit done  
+\i (00:39:51) setwindow pcb
+\i (00:39:51) redraw 
+\i (00:39:52) pick grid -15.487 32.169
+\t (00:39:52) last pick:  -15.240 32.385
+\i (00:39:53) zoom in 1 
+\i (00:39:53) setwindow pcb
+\i (00:39:53) zoom in -14.159 35.753
+\i (00:39:53) trapsize 332
+\i (00:39:54) zoom out 1 
+\i (00:39:54) setwindow pcb
+\i (00:39:54) zoom out -12.234 36.218
+\i (00:39:54) trapsize 664
+\i (00:39:55) zoom in 1 
+\i (00:39:55) setwindow pcb
+\i (00:39:55) zoom in -1.150 34.360
+\i (00:39:55) trapsize 332
+\t (00:39:56) Pick to complete the window.
+\i (00:39:56) pick -7.190 37.148
+\t (00:39:56) last pick:  -7.190 37.148
+\i (00:39:56) setwindow pcb
+\i (00:39:56) zoom points
+\i (00:39:56) pick -6.593 35.156
+\i (00:39:56) pick -10.506 37.148
+\i (00:39:56) trapsize 13
+\i (00:39:56) generaledit 
+\i (00:39:57) prepopup -9.592 36.319
+\i (00:39:58) pick grid -9.310 36.674
+\t (00:39:58) last pick:  -9.525 36.830
+\i (00:39:58) zoom out 1 
+\i (00:39:58) setwindow pcb
+\i (00:39:58) zoom out -9.317 36.548
+\i (00:39:58) trapsize 25
+\i (00:39:58) zoom out 1 
+\i (00:39:58) setwindow pcb
+\i (00:39:58) zoom out -9.343 36.534
+\i (00:39:58) trapsize 50
+\i (00:39:59) zoom out 1 
+\i (00:39:59) setwindow pcb
+\i (00:39:59) zoom out -9.353 36.424
+\i (00:39:59) trapsize 101
+\i (00:39:59) zoom out 1 
+\i (00:39:59) setwindow pcb
+\i (00:39:59) zoom out -9.373 36.423
+\i (00:39:59) trapsize 201
+\i (00:39:59) zoom out 1 
+\i (00:39:59) setwindow pcb
+\i (00:39:59) zoom out -9.373 36.423
+\i (00:39:59) trapsize 403
+\i (00:40:00) roam start
+\i (00:40:00) roam x 16
+\i (00:40:00) roam y -16
+\i (00:40:00) roam y -16
+\i (00:40:01) roam x 16
+\i (00:40:01) roam y -16
+\i (00:40:01) roam x 32
+\i (00:40:01) roam y -32
+\i (00:40:01) roam y -16
+\i (00:40:01) roam y -16
+\i (00:40:01) roam x 16
+\i (00:40:01) roam y -16
+\i (00:40:01) roam y -16
+\i (00:40:01) roam x 16
+\i (00:40:01) roam y -16
+\i (00:40:02) roam x 16
+\i (00:40:02) roam x 16
+\i (00:40:02) roam x 16
+\i (00:40:02) roam x 16
+\i (00:40:02) roam x 16
+\i (00:40:02) roam y -16
+\i (00:40:02) roam x 16
+\i (00:40:03) roam x 16
+\i (00:40:03) roam x 16
+\i (00:40:03) roam x 16
+\i (00:40:03) roam x 16
+\i (00:40:03) roam x 16
+\i (00:40:03) roam x 16
+\i (00:40:03) roam x 16
+\i (00:40:03) roam x 16
+\i (00:40:03) roam x 32
+\i (00:40:03) roam x 48
+\i (00:40:04) roam end
+\i (00:40:08) QtSignal CVPLayerGrid CVPBoxAllTop clicked true
+\i (00:40:08) QtSignal CVPLayerGrid CVPBoxAllBottom clicked true
+\i (00:40:09) QtSignal CVPLayerGrid CVPBoxAllAll clicked true
+\i (00:40:10) pick grid 104.324 46.785
+\t (00:40:10) last pick:  104.140 46.990
+\i (00:40:17) zoom in 1 
+\i (00:40:17) setwindow pcb
+\i (00:40:17) zoom in 106.258 35.664
+\i (00:40:17) trapsize 201
+\i (00:40:18) zoom in 1 
+\i (00:40:18) setwindow pcb
+\i (00:40:18) zoom in 74.547 33.810
+\i (00:40:18) trapsize 101
+\i (00:40:23) roam start
+\i (00:40:23) roam x -80
+\i (00:40:23) roam x -80
+\i (00:40:23) roam x -32
+\i (00:40:23) roam x -32
+\i (00:40:23) roam end
+\i (00:40:25) zoom out 1 
+\i (00:40:25) setwindow pcb
+\i (00:40:25) zoom out 70.337 32.440
+\i (00:40:25) trapsize 201
+\i (00:40:33) setwindow form.find
+\i (00:40:33) FORM find cline_segs YES 
+\i (00:40:34) setwindow pcb
+\i (00:40:34) pick grid 70.619 32.642
+\t (00:40:34) last pick:  70.485 32.385
+\i (00:40:35) delete 
+\i (00:40:35) generaledit 
+\i (00:40:36) pick grid 70.458 34.898
+\t (00:40:36) last pick:  70.485 34.925
+\i (00:40:36) delete 
+\i (00:40:36) generaledit 
+\i (00:40:38) add connect 
+\t (00:40:38) Pick first element.
+\i (00:40:38) pick grid 71.263 33.609
+\t (00:40:38) last pick:  71.120 33.655
+\t (00:40:38) last pick:  71.360 33.600
+\t (00:40:38) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:40:38) last pick:  71.360 33.600
+\i (00:40:41) pick grid 71.465 30.385
+\t (00:40:41) last pick:  71.755 30.480
+\t (00:40:41) No DRC errors detected.
+\t (00:40:41) last pick:  71.360 30.480
+\i (00:40:41) mouse_pos 68.886 30.345
+\i (00:40:42) pick grid 68.241 30.345
+\t (00:40:42) last pick:  67.945 30.480
+\t (00:40:42) No DRC errors detected.
+\t (00:40:42) Pick first element.
+\i (00:40:43) add connect 
+\t (00:40:43) Pick first element.
+\i (00:40:43) pick grid 72.311 33.609
+\t (00:40:43) last pick:  72.390 33.655
+\t (00:40:43) last pick:  72.360 33.600
+\t (00:40:43) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:40:43) last pick:  72.360 33.600
+\i (00:40:47) mouse_pos 59.981 45.979
+\i (00:40:48) mouse_pos 60.223 44.811
+\i (00:40:49) pick grid 67.073 38.928
+\t (00:40:49) last pick:  67.310 38.735
+\t (00:40:49) No DRC errors detected.
+\t (00:40:49) last pick:  67.310 38.545
+\i (00:40:50) mouse_pos 59.981 46.019
+\i (00:40:51) pick grid 59.699 46.180
+\t (00:40:51) last pick:  59.690 46.355
+\t (00:40:51) No DRC errors detected.
+\t (00:40:51) Pick first element.
+\i (00:40:52) done 
+\i (00:40:52) generaledit 
+\i (00:40:55) pick grid 72.472 40.983
+\t (00:40:55) last pick:  72.390 41.275
+\i (00:40:56) slide 
+\t (00:40:56) Pick element to slide.
+\i (00:40:57) prepopup 73.318 41.708
+\i (00:40:57) done 
+\i (00:40:57) generaledit 
+\i (00:40:58) slide 
+\t (00:40:58) Pick element to slide.
+\i (00:40:58) pick grid 71.183 34.737
+\t (00:40:58) last pick:  71.120 34.925
+\t (00:40:58) last pick:  70.731 34.624
+\t (00:40:58) Waiting for the destination pick.
+\i (00:41:01) pick grid 68.523 40.660
+\t (00:41:01) last pick:  68.580 40.640
+\t (00:41:01) No DRC errors detected.
+\t (00:41:01) Pick another element to slide.
+\i (00:41:01) pick grid 70.337 37.155
+\t (00:41:01) last pick:  70.485 37.465
+\t (00:41:01) last pick:  70.344 37.155
+\t (00:41:01) Waiting for the destination pick.
+\t (00:41:01) New cline would result in DRC error(s); retaining old cline.
+\i (00:41:02) pick grid 68.886 37.356
+\t (00:41:02) last pick:  68.580 37.465
+\t (00:41:02) No DRC errors detected.
+\t (00:41:02) Pick another element to slide.
+\i (00:41:03) pick grid 71.827 34.012
+\t (00:41:03) last pick:  71.755 34.290
+\t (00:41:03) last pick:  71.887 34.073
+\t (00:41:03) Waiting for the destination pick.
+\i (00:41:06) prepopup 72.553 32.964
+\i (00:41:07) done 
+\i (00:41:08) generaledit 
+\i (00:41:09) pick grid 62.681 44.367
+\t (00:41:09) last pick:  62.865 44.450
+\i (00:41:10) slide 
+\t (00:41:10) Waiting for the destination pick.
+\i (00:41:10) pick grid ext 62.641 44.569
+\t (00:41:10) last pick:  62.865 44.450
+\t (00:41:10) No DRC errors detected.
+\i (00:41:11) generaledit 
+\i (00:41:11) slide 
+\t (00:41:12) Pick element to slide.
+\i (00:41:12) pick grid 62.641 44.408
+\t (00:41:12) last pick:  62.865 44.450
+\t (00:41:12) last pick:  62.641 44.450
+\t (00:41:12) Waiting for the destination pick.
+\i (00:41:13) pick grid 61.714 42.836
+\t (00:41:13) last pick:  61.595 42.545
+\t (00:41:13) No DRC errors detected.
+\t (00:41:13) Pick another element to slide.
+\i (00:41:13) slide 
+\t (00:41:13) Pick element to slide.
+\i (00:41:13) pick grid 61.472 43.884
+\t (00:41:13) last pick:  61.595 43.815
+\t (00:41:13) last pick:  61.444 43.857
+\t (00:41:13) Waiting for the destination pick.
+\t (00:41:14) New cline would result in DRC error(s); retaining old cline.
+\i (00:41:15) pick grid 59.981 42.836
+\t (00:41:15) last pick:  59.690 42.545
+\t (00:41:15) No DRC errors detected.
+\t (00:41:15) Pick another element to slide.
+\i (00:41:15) slide 
+\t (00:41:15) Pick element to slide.
+\i (00:41:15) pick grid 63.245 42.554
+\t (00:41:15) last pick:  63.500 42.545
+\t (00:41:15) last pick:  63.245 42.545
+\t (00:41:15) Waiting for the destination pick.
+\i (00:41:16) pick grid 63.124 41.587
+\t (00:41:16) last pick:  62.865 41.275
+\t (00:41:16) No DRC errors detected.
+\t (00:41:16) Pick another element to slide.
+\i (00:41:16) slide 
+\t (00:41:17) Pick element to slide.
+\i (00:41:17) pick grid 68.523 38.605
+\t (00:41:17) last pick:  68.580 38.735
+\t (00:41:17) last pick:  68.580 38.605
+\t (00:41:17) Waiting for the destination pick.
+\i (00:41:20) pick grid 69.571 38.726
+\t (00:41:20) last pick:  69.850 38.735
+\t (00:41:20) No DRC errors detected.
+\t (00:41:20) Pick another element to slide.
+\i (00:41:26) save 
+\i (00:41:28) fillin yes 
+\i (00:41:28) generaledit 
+\i (00:41:30) status 
+\i (00:41:31) generaledit 
+\i (00:41:32) setwindow form.status
+\i (00:41:32) FORM status drc_update  
+\t (00:41:32) Running DRC, wait...
+\t (00:41:32) Performing DRC...
+\t (00:41:32) Multithreaded DRC update (4 threads).
+\t (00:41:32) No DRC errors detected.
+\t (00:41:32) DRC done.
+\i (00:41:37) FORM status done  
+\i (00:41:42) setwindow pcb
+\i (00:41:42) island_delete 
+\t (00:41:42) To delete, pick highlighted islands(s) or navigate using Options panel.
+\i (00:41:45) drc update 
+\t (00:41:45) Performing DRC...
+\t (00:41:45) Multithreaded DRC update (4 threads).
+\t (00:41:45) No DRC errors detected.
+\i (00:41:45) generaledit 
+\i (00:41:46) status 
+\i (00:41:47) generaledit 
+\i (00:41:48) setwindow form.status
+\i (00:41:48) FORM status drc_update  
+\t (00:41:48) Running DRC, wait...
+\t (00:41:48) Performing DRC...
+\t (00:41:48) Multithreaded DRC update (4 threads).
+\t (00:41:48) No DRC errors detected.
+\t (00:41:48) DRC done.
+\i (00:41:49) FORM status isolated_color 1 
+\i (00:41:51) FORM status isolated_color 1 
+\i (00:41:52) setwindow pcb
+\i (00:41:52) zoom center 
+\t (00:41:52) Pick center for the new display.
+\i (00:41:52) pick 67.999 31.656 
+\t (00:41:52) last pick:  67.999 31.656
+\i (00:41:52) trapsize 201
+\i (00:41:52) generaledit 
+\i (00:41:54) setwindow form.status
+\i (00:41:54) FORM status done  
+\i (00:41:56) setwindow pcb
+\i (00:41:56) roam start
+\i (00:41:56) roam x -80
+\i (00:41:56) roam y 16
+\i (00:41:56) roam x -32
+\i (00:41:56) roam y 32
+\i (00:41:56) roam x -16
+\i (00:41:56) roam y 16
+\i (00:41:56) roam end
+\i (00:42:02) roam start
+\i (00:42:02) roam x 16
+\i (00:42:02) roam y -80
+\i (00:42:02) roam y -16
+\i (00:42:02) roam x 16
+\i (00:42:02) roam y -16
+\i (00:42:02) roam x 16
+\i (00:42:02) roam y -32
+\i (00:42:02) roam x 16
+\i (00:42:02) roam y -16
+\i (00:42:02) roam y -48
+\i (00:42:03) roam end
+\i (00:42:05) pick grid 79.180 40.701
+\t (00:42:05) last pick:  79.375 40.640
+\i (00:42:06) delete 
+\i (00:42:06) generaledit 
+\i (00:42:07) pick grid 82.565 44.811
+\t (00:42:07) last pick:  82.550 45.085
+\i (00:42:07) delete 
+\i (00:42:07) generaledit 
+\i (00:42:08) pick grid 73.942 36.228
+\t (00:42:08) last pick:  73.660 36.195
+\i (00:42:08) delete 
+\i (00:42:08) generaledit 
+\i (00:42:08) pick grid 69.873 36.792
+\t (00:42:09) last pick:  69.850 36.830
+\i (00:42:09) delete 
+\i (00:42:09) generaledit 
+\i (00:42:09) pick grid 70.920 34.979
+\t (00:42:09) last pick:  71.120 34.925
+\i (00:42:10) delete 
+\i (00:42:10) generaledit 
+\i (00:42:10) pick grid 71.887 34.334
+\t (00:42:10) last pick:  71.755 34.290
+\i (00:42:10) delete 
+\i (00:42:11) generaledit 
+\i (00:42:11) pick grid 74.426 33.770
+\t (00:42:11) last pick:  74.295 33.655
+\i (00:42:13) pick grid 72.814 41.789
+\t (00:42:13) last pick:  73.025 41.910
+\i (00:42:13) pick grid 74.385 33.609
+\t (00:42:13) last pick:  74.295 33.655
+\i (00:42:14) prepopup 73.741 42.232
+\i (00:42:15) pick grid 73.298 44.246
+\t (00:42:15) last pick:  73.025 44.450
+\i (00:42:16) pick grid 70.074 38.887
+\t (00:42:16) last pick:  69.850 38.735
+\i (00:42:17) setwindow form.find
+\i (00:42:17) FORM find all_on  
+\i (00:42:18) setwindow pcb
+\i (00:42:18) pick grid 70.074 39.210
+\t (00:42:18) last pick:  69.850 39.370
+\i (00:42:20) pick grid 70.034 38.807
+\t (00:42:20) last pick:  69.850 38.735
+\e (00:42:21) Command not found: 3F3F3F3F3
+\i (00:42:22) add connect 
+\t (00:42:22) Pick first element.
+\t (00:42:22) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:42:22) last pick:  69.850 39.005
+\i (00:42:22) pick grid 74.345 33.770
+\t (00:42:22) last pick:  74.295 33.655
+\t (00:42:22) No DRC errors detected.
+\t (00:42:22) Pick first element.
+\i (00:42:23) generaledit 
+\i (00:42:25) pick grid 73.862 37.115
+\t (00:42:25) last pick:  73.660 36.830
+\i (00:42:25) prepopup 74.063 40.741
+\i (00:42:26) pick grid 73.418 43.723
+\t (00:42:26) last pick:  73.660 43.815
+\i (00:42:26) add connect 
+\t (00:42:27) Pick first element.
+\i (00:42:27) pick grid 82.202 46.301
+\t (00:42:27) last pick:  81.915 46.355
+\t (00:42:27) last pick:  82.520 46.800
+\t (00:42:27) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:42:27) last pick:  82.520 46.800
+\i (00:42:28) subclass -+ 
+\i (00:42:29) mouse_pos 72.693 36.752
+\i (00:42:30) mouse_pos 72.975 35.825
+\i (00:42:31) pick grid 79.180 41.627
+\t (00:42:31) last pick:  79.375 41.910
+\t (00:42:31) No DRC errors detected.
+\i (00:42:31) mouse_pos 72.774 36.550
+\i (00:42:33) pick grid 71.444 36.309
+\t (00:42:33) last pick:  71.755 36.195
+\t (00:42:33) No DRC errors detected.
+\t (00:42:33) Pick first element.
+\i (00:42:34) done 
+\i (00:42:34) generaledit 
+\i (00:42:35) slide 
+\t (00:42:35) Pick element to slide.
+\i (00:42:35) pick grid 75.594 40.056
+\t (00:42:35) last pick:  75.565 40.005
+\t (00:42:35) last pick:  75.685 39.965
+\t (00:42:35) Waiting for the destination pick.
+\i (00:42:36) pick grid 73.217 40.580
+\t (00:42:36) last pick:  73.025 40.640
+\t (00:42:36) No DRC errors detected.
+\t (00:42:36) Pick another element to slide.
+\i (00:42:36) done 
+\i (00:42:37) generaledit 
+\i (00:42:37) add connect 
+\t (00:42:38) Pick first element.
+\i (00:42:38) slide 
+\t (00:42:38) Pick element to slide.
+\i (00:42:38) pick grid ext 80.470 42.997
+\t (00:42:38) last pick:  80.645 43.180
+\t (00:42:38) last pick:  80.466 43.001
+\t (00:42:38) Waiting for the destination pick.
+\i (00:42:39) pick grid 81.638 42.594
+\t (00:42:39) last pick:  81.915 42.545
+\t (00:42:39) No DRC errors detected.
+\t (00:42:39) Pick another element to slide.
+\i (00:42:39) pop finish 
+\t (00:42:39) Pick another element to slide.
+\i (00:42:40) done 
+\i (00:42:40) generaledit 
+\i (00:42:41) save 
+\i (00:42:42) fillin yes 
+\i (00:42:43) generaledit 
+\i (00:42:47) island_delete 
+\t (00:42:47) To delete, pick highlighted islands(s) or navigate using Options panel.
+\i (00:42:48) drc update 
+\t (00:42:49) Performing DRC...
+\t (00:42:49) Multithreaded DRC update (4 threads).
+\t (00:42:49) No DRC errors detected.
+\i (00:42:49) generaledit 
+\i (00:42:50) status 
+\i (00:42:50) generaledit 
+\i (00:42:53) setwindow form.status
+\i (00:42:53) FORM status drc_update  
+\t (00:42:53) Running DRC, wait...
+\t (00:42:53) Performing DRC...
+\t (00:42:53) Multithreaded DRC update (4 threads).
+\t (00:42:53) No DRC errors detected.
+\t (00:42:53) DRC done.
+\i (00:43:00) setwindow pcb
+\i (00:43:00) island_delete 
+\t (00:43:00) To delete, pick highlighted islands(s) or navigate using Options panel.
+\i (00:43:01) setwindow form.mini
+\i (00:43:01) FORM mini delete_all  
+\i (00:43:03) setwindow form.status
+\i (00:43:03) FORM status drc_update  
+\w (00:43:03) DRC Update can not be run while command active.
+\i (00:43:06) setwindow pcb
+\i (00:43:06) drc update 
+\t (00:43:07) Performing DRC...
+\t (00:43:07) Multithreaded DRC update (4 threads).
+\t (00:43:07) No DRC errors detected.
+\i (00:43:07) generaledit 
+\i (00:43:10) status 
+\i (00:43:10) generaledit 
+\i (00:43:11) setwindow form.status
+\i (00:43:11) FORM status done  
+\i (00:43:12) setwindow pcb
+\i (00:43:12) status 
+\i (00:43:12) generaledit 
+\i (00:43:13) setwindow form.status
+\i (00:43:13) FORM status fill_update  
+\t (00:43:13) Updating dynamic shape (1 of 1) Gnd, Boundary/Bottom @ (5.000 5.000) ...
+\i (00:43:19) FORM status done  
+\i (00:43:19) setwindow pcb
+\i (00:43:19) zoom out 1 
+\i (00:43:19) setwindow pcb
+\i (00:43:19) zoom out 84.419 41.990
+\i (00:43:19) trapsize 403
+\i (00:43:21) save 
+\i (00:43:22) fillin yes 
+\i (00:43:22) generaledit 
+\i (00:43:29) zoom out 1 
+\i (00:43:29) setwindow pcb
+\i (00:43:29) zoom out -7.048 57.463
+\i (00:43:29) trapsize 806
+\i (00:43:30) zoom in 1 
+\i (00:43:30) setwindow pcb
+\i (00:43:30) zoom in -7.532 60.726
+\i (00:43:30) trapsize 403
+\i (00:43:30) zoom out 1 
+\i (00:43:30) setwindow pcb
+\i (00:43:30) zoom out -7.532 60.726
+\i (00:43:30) trapsize 806
+\i (00:43:31) zoom in 1 
+\i (00:43:31) setwindow pcb
+\i (00:43:31) zoom in 97.876 19.949
+\i (00:43:31) trapsize 403
+\i (00:43:32) zoom out 1 
+\i (00:43:32) setwindow pcb
+\i (00:43:32) zoom out 60.645 40.580
+\i (00:43:32) trapsize 806
+\i (00:43:37) artwork 
+\i (00:43:39) setwindow form.film_control
+\i (00:43:39) FORM film_control select_all  
+\i (00:43:40) FORM film_control create  
+\i (00:43:41) fillin yes 
+\t (00:43:41) Checking db records
+\t (00:43:41)     checking for orphans...
+\t (00:43:41)     Checked 100 percent
+\w (00:43:41) Run batch DRC to correctly regenerate DRC errs.
+
+\t (00:43:41) Done dbdoctor.
+\t (00:43:41) Starting Create artwork films...
+\w (00:43:42) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (00:43:43) Artwork generated with warnings.
+\i (00:43:44) setwindow text
+\i (00:43:44) close 
+\i (00:43:45) setwindow form.film_control
+\i (00:43:45) FORM film_control cancel  
+\i (00:43:45) setwindow pcb
+\i (00:43:45) generaledit 
+\i (00:43:47) exit 
+\e (00:43:47) Do you want to save the changes you made to C:/USERS/USER/DESKTOP/VSCODE_ORCAD/WORKSPACE/CAD2/allegro/CAD2.brd?
+\i (00:43:49) fillin yes 
+\t (00:43:49)     Journal end - Wed Jul 31 12:15:31 2019

@@ -1,0 +1,203 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  CAD2.brd                                                                    |
+|                                                    Wed Jul 31 10:20:47 2019  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  +12V         pins ADDED TO this new net
+                                 J1.1           U1.7           U2.7           
+                                 U3.7           U4.7           VR3.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  -12V         pins ADDED TO this new net
+                                 J1.3           U1.4           U2.4           
+                                 U3.4           U4.4           VR3.3          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND          pins ADDED TO this new net
+                                 J1.2           J2.2           R5.2           
+                                 R6.2           R7.2           R8.2           
+                                 R9.2           R13.1          U3.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00309       pins ADDED TO this new net
+                                 R10.2          R12.1          U3.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00774       pins ADDED TO this new net
+                                 R11.1          R12.2          U4.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00814       pins ADDED TO this new net
+                                 R13.2          U4.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01256       pins ADDED TO this new net
+                                 C1.2           C2.1           R5.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01357       pins ADDED TO this new net
+                                 C2.2           C3.1           R6.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01584       pins ADDED TO this new net
+                                 C3.2           C4.1           R7.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01650       pins ADDED TO this new net
+                                 C4.2           R3.1           R8.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01691       pins ADDED TO this new net
+                                 C1.1           U1.6           VR1.2          
+                                 VR1.3          VR2.1          VR2.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01787       pins ADDED TO this new net
+                                 R2.2           VR1.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01791       pins ADDED TO this new net
+                                 R2.1           R3.2           U1.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01914       pins ADDED TO this new net
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  CAD2.brd                                                                    |
+|                                                    Wed Jul 31 10:20:47 2019  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 R9.1           U1.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02077       pins ADDED TO this new net
+                                 R4.2           VR2.3          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02900       pins ADDED TO this new net
+                                 R1.2           R4.1           U2.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02904       pins ADDED TO this new net
+                                 U2.3           VR3.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  OUT          pins ADDED TO this new net
+                                 J2.1           R11.2          U4.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SIG          pins ADDED TO this new net
+                                 R1.1           R10.1          U2.6           
+                                 U3.2           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  CAD2.brd                                                                    |
+|                                                    Wed Jul 31 10:20:47 2019  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ CAP NP_CAP196_0.001UF
+ CON2_JUMPER2_CON2
+ CON3_JUMPER3_CON3
+ LF356_5_DIP8_3_LF356
+ POT_RESADJ_100K
+ POT_RESADJ_10K
+ POT_RESADJ_470K
+ R_RES400_10K
+ R_RES400_15K
+ R_RES400_1K
+ R_RES400_2.2K
+ R_RES400_20K
+ R_RES400_4.7K
+ R_RES400_5.1K
+ R_RES400_8.2K
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  CAD2.brd                                                                    |
+|                                                    Wed Jul 31 10:20:47 2019  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1                  CAP NP_CAP196_0.001UF 
+ C2                  CAP NP_CAP196_0.001UF 
+ C3                  CAP NP_CAP196_0.001UF 
+ C4                  CAP NP_CAP196_0.001UF 
+ J1                  CON3_JUMPER3_CON3     
+ J2                  CON2_JUMPER2_CON2     
+ R1                  R_RES400_10K          
+ R2                  R_RES400_15K          
+ R3                  R_RES400_10K          
+ R4                  R_RES400_20K          
+ R5                  R_RES400_4.7K         
+ R6                  R_RES400_4.7K         
+ R7                  R_RES400_4.7K         
+ R8                  R_RES400_4.7K         
+ R9                  R_RES400_1K           
+ R10                 R_RES400_8.2K         
+ R11                 R_RES400_10K          
+ R12                 R_RES400_2.2K         
+ R13                 R_RES400_5.1K         
+ U1                  LF356_5_DIP8_3_LF356  
+ U2                  LF356_5_DIP8_3_LF356  
+ U3                  LF356_5_DIP8_3_LF356  
+ U4                  LF356_5_DIP8_3_LF356  
+ VR1                 POT_RESADJ_470K       
+ VR2                 POT_RESADJ_100K       
+ VR3                 POT_RESADJ_10K        
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  CAD2.brd                                                                    |
+|                                                    Wed Jul 31 10:20:47 2019  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1.2                           PRIM_FILE      .\pstchip.dat
+ C2.2                           PRIM_FILE      .\pstchip.dat
+ C3.2                           PRIM_FILE      .\pstchip.dat
+ C4.2                           PRIM_FILE      .\pstchip.dat
+ J1.3                           PRIM_FILE      .\pstchip.dat
+ J2.2                           PRIM_FILE      .\pstchip.dat
+ R1.2                           PRIM_FILE      .\pstchip.dat
+ R2.2                           PRIM_FILE      .\pstchip.dat
+ R3.2                           PRIM_FILE      .\pstchip.dat
+ R4.2                           PRIM_FILE      .\pstchip.dat
+ R5.2                           PRIM_FILE      .\pstchip.dat
+ R6.2                           PRIM_FILE      .\pstchip.dat
+ R7.2                           PRIM_FILE      .\pstchip.dat
+ R8.2                           PRIM_FILE      .\pstchip.dat
+ R9.2                           PRIM_FILE      .\pstchip.dat
+ R10.2                          PRIM_FILE      .\pstchip.dat
+ R11.2                          PRIM_FILE      .\pstchip.dat
+ R12.2                          PRIM_FILE      .\pstchip.dat
+ R13.2                          PRIM_FILE      .\pstchip.dat
+ U1.7                           PRIM_FILE      .\pstchip.dat
+ U2.7                           PRIM_FILE      .\pstchip.dat
+ U3.7                           PRIM_FILE      .\pstchip.dat
+ U4.7                           PRIM_FILE      .\pstchip.dat
+ VR1.2                          PRIM_FILE      .\pstchip.dat
+ VR2.2                          PRIM_FILE      .\pstchip.dat
+ VR3.2                          PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  CAD2.brd                                                                    |
+|                                                    Wed Jul 31 10:20:47 2019  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|------------------------------------------------------------------------------|
+|       Nets changed          :      68                                        |
+|       Comp definitions added:      15                                        |
+|       Components added      :      26                                        |
+|       Slot property added   :      26                                        |
+|                                                                              |
+|   Total ECO changes reported:     135                                        |
+|------------------------------------------------------------------------------|

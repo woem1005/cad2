@@ -1,0 +1,16 @@
+\t (00:00:14) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:14)     Journal start - Wed Jul 31 12:16:48 2019
+\t (00:00:14)         Host=USER-PC User=user Pid=11208 CPUs=4
+\t (00:00:14) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:14) 
+   (00:00:14) Loading axlcore.cxt 
+\t (00:00:21) Opening existing design...
+\d (00:00:21) Design opened: C:/USERS/USER/DESKTOP/VSCODE_ORCAD/WORKSPACE/CAD2/allegro/CAD2.brd
+\i (00:00:21) trapsize 806
+\i (00:00:21) trapsize 824
+\i (00:00:22) trapsize 842
+\i (00:00:22) trapsize 823
+\i (00:00:22) generaledit 
+\i (00:01:10) generaledit 
+\i (00:01:11) exit 
+\t (00:01:12)     Journal end - Wed Jul 31 12:17:46 2019
